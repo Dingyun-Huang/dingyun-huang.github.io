@@ -19,7 +19,7 @@ Paper Link: [https://doi.org/10.1038/s41597-023-02897-3](https://doi.org/10.1038
 
 ## Introduction
 
- The interest in thermally activated delayed fluorescence (TADF) is ever growing due to its potential to improve the efficiency of organic light-emitting diodes (OLEDs). TADF materials can convert non-emissive triplet states into emissive singlet states, allowing for a theoretical internal quantum efficiency (IQE) of 100%. The discovery of new TADF materials could potentially be accelerated by data-driven design-to-device pipelines and machine learning capabilities. However, there is currently no consistently structured database for existing TADF molecules. To fill this gap, the chemistry-aware natural-language-processing toolkit ChemDataExtractor was used to extract data from 2,733 scientific articles, resulting in a database of 25,482 data records with 82% overall precision and a subsidiary database of 5,349 property records represented by simplified molecular-input line-entry system (SMILES) strings.
+The interest in thermally activated delayed fluorescence (TADF) is ever growing due to its potential to improve the efficiency of organic light-emitting diodes (OLEDs). TADF materials can convert non-emissive triplet states into emissive singlet states, allowing for a theoretical internal quantum efficiency (IQE) of 100%. The discovery of new TADF materials could potentially be accelerated by data-driven design-to-device pipelines and machine learning capabilities. However, there is currently no consistently structured database for existing TADF molecules. To fill this gap, the chemistry-aware natural-language-processing toolkit ChemDataExtractor was used to extract data from 2,733 scientific articles, resulting in a database of 25,482 data records with 82% overall precision and a subsidiary database of 5,349 property records represented by simplified molecular-input line-entry system (SMILES) strings.
 
 ## Key Improvements
 
@@ -48,11 +48,9 @@ Here is a detail view of the database structure.
    Histograms of the value distributions of the four extracted TADF properties.
 </div>
 
-
 ## Conclusion
 
 This research presents a well-structured database for molecular TADF materials and can facilitate data-science driven developments in the field of TADF. New text-mining techniques were developed and implemented, which might be transferrable to other data-mining pipeline in material science.
-
 
 ## Additional Resources
 
