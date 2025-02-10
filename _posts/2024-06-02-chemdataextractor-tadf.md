@@ -5,7 +5,7 @@ date: 2024-06-02
 categories: [Paper Summary]
 tags: [ChemDataExtractor]
 description: Thermally activated delayed fluorescent (TADF) molecules and properties extracted from scientific literature with ChemDataExtractor
-og_image: "cde_tadf/pie_bar.png"
+og_image: "/assets/img/cde_tadf/pie_bar.png"
 ---
 
 Paper Link: [https://doi.org/10.1038/s41597-023-02897-3](https://doi.org/10.1038/s41597-023-02897-3)
