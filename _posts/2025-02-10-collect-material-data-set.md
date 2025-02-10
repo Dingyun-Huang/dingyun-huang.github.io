@@ -5,7 +5,7 @@ date: 2025-02-10
 categories: [Thoughts]
 tags: [ChemDataExtractor, Machine Learning, Materials Science, Data Mining, AI]
 description: Thoughts on Text-mining Material Datasets for Modelling and Generation
-og_image: "/assets/img/thoughts_text_mining/headline_og.jpg"
+og_image: "/assets/img/thoughts_text_mining/headline_og.png"
 ---
 
 <div class="row mt-3">
