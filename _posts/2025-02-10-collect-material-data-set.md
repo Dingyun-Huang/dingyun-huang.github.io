@@ -4,6 +4,8 @@ title: Thoughts on Text-mining Material Datasets for Modelling and Generation
 date: 2025-02-10
 categories: [Thoughts]
 tags: [ChemDataExtractor, Machine Learning, Materials Science, Data Mining, AI]
+og_image: "thoughts_text_mining/headline.webp"
+description: Thoughts on Text-mining Material Datasets for Modelling and Generation
 ---
 
 <div class="row mt-3">
