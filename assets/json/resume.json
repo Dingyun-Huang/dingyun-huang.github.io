@@ -66,9 +66,20 @@
   "certificates": [],
   "publications": [
     {
+      "title": "Cost-Efficient Domain-Adaptive Pretraining of Language Models for Optoelectronics Applications",
+      "authors": ["Dingyun Huang", "Jacqueline M. Cole"],
+      "date": "2025-03-10",
+      "journal": "Journal of Chemical Information and Modeling",
+      "publisher": "American Chemical Society",
+      "doi": "10.1021/acs.jcim.4c02029",
+      "url": "https://doi.org/10.1021/acs.jcim.4c02029",
+      "abstract": "Pretrained language models have demonstrated strong capability and versatility in natural language processing (NLP) tasks, and they have important applications in optoelectronics research, such as data mining and topic modeling. Many language models have also been developed for other scientific domains, among which Bidirectional Encoder Representations from Transformers (BERT) is one of the most widely used architectures. We present three “optoelectronics-aware” BERT models, OE-BERT, OE-ALBERT, and OE-RoBERTa, that outperform both their counterpart general English models and larger models in a variety of NLP tasks about optoelectronics. Our work also demonstrates the efficacy of a cost-effective domain-adaptive pretraining (DAPT) method with RoBERTa, which significantly reduces computational resource requirements by more than 80% for its pretraining while maintaining or enhancing its performance. All models and data sets are available to the optoelectronics-research community."
+    },
+    {
       "name": "A database of thermally activated delayed fluorescent molecules auto-generated from scientific literature with ChemDataExtractor",
       "publisher": "Springer Nature",
       "releaseDate": "2024-01-17",
+      "journal": "Scientific Data",
       "url": "https://doi.org/10.1038/s41597-023-02897-3",
       "summary": "A database of thermally activated delayed fluorescent (TADF) molecules was automatically generated from the scientific literature. It consists of 25,482 data records with an overall precision of 82%. Among these, 5,349 records have chemical names in the form of SMILES strings which are represented with 91% accuracy; these are grouped in a subsidiary database. The databases have been publicly released for experimental and computational applications in the TADF research field."
     },
@@ -86,6 +97,18 @@
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": ["quantum physics", "condensed matter physics", "optoelectronics"]
+    },
+    {
+      "name": "Applied Machine Learning",
+      "level": "Advanced",
+      "icon": "fa-solid fa-brain",
+      "keywords": ["deep learning", "transformers", "graph neural networks", "convolutional neural networks"]
+    },
+    {
+      "name": "Programming",
+      "level": "Advanced",
+      "icon": "fa-solid fa-code",
+      "keywords": ["Python", "Bash"]
     }
   ],
   "languages": [
@@ -101,6 +124,11 @@
     }
   ],
   "interests": [
+    {
+      "name": "Artificial Intelligence",
+      "icon": "fa-solid fa-robot",
+      "keywords": ["Machine Learning", "Natural Language Processing", "Learning Theory", "Reinforcement Learning"]
+    },
     {
       "name": "Physics",
       "icon": "fa-solid fa-tag",
