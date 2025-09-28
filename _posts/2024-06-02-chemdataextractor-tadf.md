@@ -8,7 +8,7 @@ description: Thermally activated delayed fluorescent (TADF) molecules and proper
 og_image: "/assets/img/cde_tadf/pie_bar.png"
 ---
 
-Paper Link: [https://doi.org/10.1038/s41597-023-02897-3](https://doi.org/10.1038/s41597-023-02897-3)
+Paper Link: [https://www.nature.com/articles/s41597-023-02897-3](https://www.nature.com/articles/s41597-023-02897-3)
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
