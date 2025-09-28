@@ -16,10 +16,10 @@ Paper Link: [https://doi.org/10.1021/acs.jcim.4c02029](https://doi.org/10.1021/a
     </div>
 </div>
 
-
 ## TL;DR
 
 Models at [https://huggingface.co/collections/CambridgeMolecularEngineering/](https://huggingface.co/collections/CambridgeMolecularEngineering/).
+
 - **Development of OE-RoBERTa, OE-BERT, and OE-ALBERT:** Transformer-based language models optimized for optoelectronics research, fine-tuned for text classification, question answering, and text embedding.
 - **Cost-Efficient Domain Adaptive Pretraining (DAPT):** A method reducing computational expenses by over 80% while maintaining performance.
 - **Interesting Findings:** For optoelectronics QA, OE-RoBERTa is much better than BERT under the same amount of DAPT. Possible reasons includes,
@@ -37,6 +37,7 @@ The field of optoelectronics is rapidly expanding, producing vast amounts of res
 - **Performance Evaluation:** Models tested on abstract classification, question-answering (QA), and text retrieval tasks.
 
 ## Why Optoelectronics Needs Specialized Language Models
+
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/oe-roberta/intro-illustration.png" class="img-fluid rounded z-depth-1" %}
@@ -48,8 +49,8 @@ The field of optoelectronics is rapidly expanding, producing vast amounts of res
 
 General language models struggle with domain-specific terminology, complex sentence structures, and highly technical knowledge found in optoelectronics research. The introduction of OE-RoBERTa addresses these limitations, enabling efficient literature mining, factual question answering, and document classification in optoelectronics.
 
-
 The optoelectronics-adapted models were developed using a three-step process:
+
 1. **Domain Adaptive Pretraining (DAPT):** Pretraining on a 5.7GB optoelectronics-specific corpus.
 2. **Fine-Tuning on Downstream Tasks:** Abstract classification, QA, and text embedding.
 3. **Evaluation and Benchmarking:** Comparison against general-purpose models and OpticalBERT.
@@ -81,4 +82,3 @@ The models were tested on the SQuAD v1.1 dataset and a domain-specific dataset, 
 ## Models and Datasets
 
 For access to the models and datasets, visit the Hugging Face repository: [https://huggingface.co/collections/CambridgeMolecularEngineering/](https://huggingface.co/collections/CambridgeMolecularEngineering/).
-
